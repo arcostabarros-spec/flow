@@ -1,4 +1,6 @@
----
+---create-react-app minha-planilha
+cd minha-planilha
+npm start
 title: .flowconfig
 slug: /config
 description: Flow tries to work out of the box as much as possible, but can be configured to work with any codebase.
